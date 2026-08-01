@@ -22,7 +22,7 @@
 
 #### 2️⃣ مشروع موقع الويب الثابت:
 * **موقع الويب التجريبي:** مشروع قمت بتصميمه وتطويره بدون استخدام لغة `PHP` لتطبيق مهارات التصميم والهيكلة ولغات `HTML` و `CSS`.
-* [🔗 اضغط هنا لتصفح الموقع الحي (https://alialmhmody.github.io/ITlevel2github.io/index.html)
+* [🔗 اضغط هنا لتصفح الموقع الحي (https://alialmhmody.github.io/ITlevel2github.io)
 
 ---
 
